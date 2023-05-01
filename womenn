@@ -1,0 +1,3 @@
+women[,'height', drop=FALSE]
+women$weight[1:8]
+women$height[1]
